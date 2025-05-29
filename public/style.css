@@ -1,0 +1,26 @@
+*{
+    background-color: #712D76;
+}
+h1{
+    color: chocolate;
+    text-shadow: rebeccapurple;
+
+}
+.post{
+    background-color: #3E2F5B;
+    align-items: center;
+    height: fit-content;
+    display: flexbox;
+    max-width: fit-content;
+
+}
+.user{
+    color: #FFB86F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+    font-display: center;
+}
+.content{
+    color: black;
+}
